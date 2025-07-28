@@ -14,7 +14,7 @@ This project demonstrates a complete ELT pipeline using Databricks and Delta Lak
 
 - `notebooks/`: Contains PySpark ETL logic
 - `data/`: Sample raw sales data (CSV)
-- `screenshots/`: Visual of dashboard for business insights
+- `dashboard/`: Visual of dashboard for business insights
 
 ## 🔧 Tech Stack
 
